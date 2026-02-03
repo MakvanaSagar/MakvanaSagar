@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Marketing content generator**
 
-- 🌱 I’m currently learning **Python, Machine learning, Data science, sk-learn, Matplotlib, Pandas, Numpy, Opencv, Tensorflow, mySQL**
+- 🌱 I’m currently learning **Python, Machine learning, NLP, Opencv, DSA, mySQL, sk-learn, Matplotlib, Pandas, Numpy, Opencv, Tensorflow**
 
 - 👨‍💻 All of my projects are available at [github.com/MakvanaSagar](github.com/MakvanaSagar)
 
